@@ -1,17 +1,9 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Just picked up some basic Three.js
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+I've played with the library a bit and managed to create something basic
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+Earth, Moon and a Sun
 
-# Run the local server at localhost:8080
-npm run dev
+```
 
-# Build for production in the dist/ directory
-npm run build
 ```
